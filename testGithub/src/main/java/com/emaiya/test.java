@@ -2,6 +2,6 @@ package com.emaiya;
 
 public class test {
     public static void main(String[] args) {
-        System.out.println(2112);
+        System.out.println(212);
     }
 }
